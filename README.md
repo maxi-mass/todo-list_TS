@@ -1,1 +1,1 @@
-# todo-list_TS
+# todo list on React + TypeScript
